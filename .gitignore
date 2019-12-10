@@ -4,3 +4,4 @@ src
 package.json
 webpack.config.js
 package-lock.json
+.DS_Store
